@@ -1,0 +1,15 @@
+* Hyper key for macOS Sierra
+  Finally I can get the hyper key working on macOS Sierra. Big thanks to *@wwwjky*. Here is how I do it.
+
+** Function
+   - short click caps-lock = ESC
+   - long press caps-lock = Ctrl
+* Credit
+  I found the solution here in this [[https://github.com/tekezo/Karabiner-Elements/issues/8][issue]].
+
+* Installation Step
+  1. install Karabiner binary [[https://github.com/wwwjfy/Karabiner-Elements/releases/tag/0.90.46][HERE]]
+  2. do not upgrade! here is why. This is a fork from another repository, but
+     the update matches to the previous repository.
+  3. install this config repository like this ~git clone
+     https://github.com/shan199105/karabiner-config.git ~/.karabiner.d~
