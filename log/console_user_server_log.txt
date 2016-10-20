@@ -1,0 +1,33 @@
+[2016-10-20 01:16:27.124] [console_user_server] [info] version 0.90.46
+[2016-10-20 01:16:28.415] [console_user_server] [info] grabber_client_ is connected
+[2016-10-20 01:16:28.436] [console_user_server] [info] configuration_core_ was loaded.
+[2016-10-20 01:16:29.433] [console_user_server] [info] system_preferences::values is updated.
+[2016-10-20 01:16:55.273] [info] [console_user_server] version 0.90.53
+[2016-10-20 01:16:55.875] [info] [console_user_server] connection_manager::grabber_is_launched_callback
+[2016-10-20 01:16:56.616] [warning] [console_user_server] grabber socket is not found
+[2016-10-20 01:16:57.584] [info] [console_user_server] grabber_client_ is connected
+[2016-10-20 01:16:57.586] [info] [console_user_server] configuration_core_ was loaded.
+[2016-10-20 01:16:58.613] [info] [console_user_server] system_preferences::values is updated.
+[2016-10-20 01:17:09.856] [info] [console_user_server] configuration_core_ was loaded.
+[2016-10-20 01:17:16.375] [info] [console_user_server] configuration_core_ was loaded.
+[2016-10-20 01:17:20.559] [info] [console_user_server] configuration_core_ was loaded.
+[2016-10-20 01:17:23.232] [info] [console_user_server] configuration_core_ was loaded.
+[2016-10-20 01:17:51.021] [info] [console_user_server] configuration_core_ was loaded.
+[2016-10-20 01:17:54.496] [info] [console_user_server] configuration_core_ was loaded.
+[2016-10-20 01:23:11.997] [info] [console_user_server] configuration_core_ was loaded.
+[2016-10-20 01:23:11.997] [warning] [console_user_server] unknown key_code:hyper in /Users/tshan/.karabiner.d/configuration/karabiner.json
+[2016-10-20 01:24:29.116] [info] [console_user_server] configuration_core_ was loaded.
+[2016-10-20 01:25:25.875] [info] [console_user_server] configuration_core_ was loaded.
+[2016-10-20 01:25:25.875] [warning] [console_user_server] unknown key_code:hyper in /Users/tshan/.karabiner.d/configuration/karabiner.json
+[2016-10-20 01:26:20.766] [info] [console_user_server] configuration_core_ was loaded.
+[2016-10-20 01:26:20.766] [warning] [console_user_server] unknown key_code:hyper in /Users/tshan/.karabiner.d/configuration/karabiner.json
+[2016-10-20 01:29:39.747] [console_user_server] [info] version 0.90.46
+[2016-10-20 01:29:41.035] [console_user_server] [info] grabber_client_ is connected
+[2016-10-20 01:29:41.036] [console_user_server] [info] configuration_core_ was loaded.
+[2016-10-20 01:29:42.096] [console_user_server] [info] system_preferences::values is updated.
+[2016-10-20 01:30:22.871] [console_user_server] [info] version 0.90.46
+[2016-10-20 01:30:23.465] [console_user_server] [info] connection_manager::grabber_is_launched_callback
+[2016-10-20 01:30:24.274] [console_user_server] [warning] grabber socket is not found
+[2016-10-20 01:30:25.407] [console_user_server] [info] grabber_client_ is connected
+[2016-10-20 01:30:25.412] [console_user_server] [info] configuration_core_ was loaded.
+[2016-10-20 01:30:26.411] [console_user_server] [info] system_preferences::values is updated.
