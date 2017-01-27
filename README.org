@@ -8,8 +8,14 @@
   I found the solution here in this [[https://github.com/tekezo/Karabiner-Elements/issues/8][issue]].
 
 * Installation Step
-  1. install Karabiner binary [[https://github.com/wwwjfy/Karabiner-Elements/releases/tag/0.90.46][HERE]]
+  1. install Karabiner binary [[https://github.com/wwwjfy/Karabiner-Elements/releases][HERE]]
   2. do not upgrade! here is why. This is a fork from another repository, but
      the update matches to the previous repository.
   3. install this config repository like this ~git clone
      https://github.com/shan199105/karabiner-config.git ~/.karabiner.d~
+
+** Problem Solving
+   If it does not work, try to restart the computer. See log tab, if having
+   error such as ~event_manipulator not working~ try uninstall reinstall restart
+   etc. If still doesn't work, install an earlier version. If still doesn't
+   work, try to install 0.90.75
