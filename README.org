@@ -12,7 +12,7 @@
   2. do not upgrade! here is why. This is a fork from another repository, but
      the update matches to the previous repository.
   3. install this config repository like this ~git clone
-     https://github.com/shan199105/karabiner-config.git ~/.karabiner.d~
+     https://github.com/nuynait/karabiner-config.git ~/.karabiner.d~
 
 ** Problem Solving
    If it does not work, try to restart the computer. See log tab, if having
